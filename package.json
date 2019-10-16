@@ -12,5 +12,6 @@
     "float"
   ],
   "author": "Reece Daniels (https://github.com/rubengmurray)",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/rubengmurray/expected-round.git"
 }
