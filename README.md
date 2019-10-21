@@ -20,5 +20,5 @@ Math.round(1.005 * 100) / 100 // outputs 1
 
 ##### Expected-Round
 ```javascript
-round10(1.005, -2) // outputs 1.1
+round10(1.005, -2) // outputs 1.01
 ```
